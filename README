@@ -1,0 +1,4 @@
+//  Raspberry Pi and Arduino SPI Data Transfer with C++
+//
+//  RPi_Script.cpp to be run on Raspberry Pi (see pinout in this doc for interfacing pi with arduino)
+//  SPI_Arduino.ino to be uploaded to arduino
